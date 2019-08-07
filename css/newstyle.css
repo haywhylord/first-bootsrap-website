@@ -1,0 +1,207 @@
+@media (max-width: 768px) {
+	[class*="col-sm" ]
+	{margin-bottom: 10px;
+		margin-top:10px;} 
+}
+
+@media (max-width: 992px) {
+	[class*="col-md" ]
+	{margin-bottom: 10px;
+		margin-top:10px;} 
+}
+html {
+background: url("file:///C:/sweetadventure.com/images/advenureguy.jpg") no-repeat center;
+background-size: cover;
+background-position: relative;
+}
+
+
+body {
+  background-color: white !important; /*set to color*/
+  background-image: url("file:///C:/sweetadventure.com/images/advenureguy.jpg") !important; /*or set image*/
+}
+
+.container-fluid-welcome {
+	text-align: center;
+	padding: 35px;
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+.display-4 {
+	color: green;
+	word-spacing: 40px;
+	font-size: 3em;
+	font-weight: 800;
+	font-family: "open sans";
+}
+
+.my-4 {
+	margin-top: 40px;
+	text-indent: center;
+}
+
+h3 {
+	font-family: "Arial Narrow";
+	color: white;
+	padding: 5px;
+	word-spacing: 8px;
+}
+
+.btn-primary {
+	margin-top: 40px;
+	color: white;
+	background-color: #5FA100;  
+	border: 1px solid white;
+	text-align: center;
+}
+
+.btn-primary:hover {
+	background-color: green;
+}
+
+.container-fluid {
+	background-color: #EBEBEB;
+	padding: 20px;
+}
+
+h2 {
+	text-align: center;
+	color: green;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+h5 {
+color: #55c57a;
+}
+
+img {
+	transition: all 1s;
+	box-shadow: 4px 4px 4px #888888;
+}
+
+img:hover {
+	transform: scale(1.1);
+} 
+
+.btn-outline-secondary {
+	color: white;
+	background-color: #55c57a; 
+	border: 1px solid white;
+	margin-bottom: 20px;
+	}
+
+.btn-outline-secondary:hover {
+	background-color: green;
+}
+
+.button {
+text-align: center;
+margin-bottom: 30px;
+margin-top: 50px;
+}
+.container {
+/*background: rgba(147, 199, 92, 0.6);*/
+text-align: center;
+padding: 20px; 
+}
+
+.tour {
+	color:white;
+}
+
+.btn-secondary {
+	color: green;
+	background-color: white; 
+	border: 1px solid white;
+}
+
+.btn-secondary:hover {
+	background-color: #55c57a;
+}
+
+.card {
+	background-color: #F7F7F6;
+	margin-top: -8px;
+	margin-bottom: 45px;
+}
+
+.card-img-top {
+	opacity: 0.5;
+}
+
+.card-title {
+	color: green;
+	font-size: 1.6em;
+	text-align: center;
+}
+
+.card-text {
+	font-size: 16px;
+	color: black;
+	text-align: center;
+}
+
+.card-money {
+	font-size: 1.6em;
+	color: green;
+	text-align: center;
+}
+
+.white {
+	background: url("file:///C:/sweetadventure.com/images/white.jpg") no-repeat;
+	background-size: cover;
+	margin-top: -10px;
+}
+
+.stories{
+	margin-top:
+}
+
+
+a {
+	color: green;
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: 400;
+}
+
+a:hover {
+	color: green;
+}
+
+.header {
+	color:green;
+	text-align: center;
+}
+
+.dark-color {
+	background: rgba(147, 199, 92, 0.6);
+}
+
+.image {
+background: url("file:///C:/sweetadventure.com/images/them.jpg") no-repeat;
+background-size: cover;
+}
+
+.transparent {
+	background: rgba(244, 244, 244, 0.6);
+}
+
+.form-group {
+	margin-top: 50px;
+	font-size: 1.4em;
+	color: green;
+	font-weight: 400;
+	margin-bottom: 50px;
+}
+
+.black {
+	background-color: black;
+}
+
+.footer {
+	font-size: 0.8em;
+	color: white;
+	text-align: center;
+}

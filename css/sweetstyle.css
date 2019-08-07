@@ -1,0 +1,63 @@
+html {
+background: url("file:///C:/sweetadventure.com/images/advenureguy.jpg") no-repeat center;
+background-size: cover;
+background-position: relative;
+}
+
+
+body {
+  background-color: white !important; /*set to color*/
+  background-image: url("file:///C:/sweetadventure.com/images/advenureguy.jpg") !important; /*or set image*/
+}
+
+.container {
+	text-align: center;
+	padding: 35px;
+}
+.display-4 {
+	color: green;
+	word-spacing: 40px;
+	font-size: 3em;
+	font-weight: 600px;
+}
+
+.my-4 {
+	margin-top: 40px;
+	color: white;
+	background-color: #55c57a; 
+	border: 1px solid white;
+	padding: 5px;
+	word-spacing: 8px;
+}
+
+h3 {
+	font-family: "Arial Narrow";
+	text-align: center;
+}
+
+.btn-primary {
+	margin-top: 40px;
+	color: white;
+	background-color: #55c57a; 
+	border: 1px solid white;
+}
+
+.container-2 {
+	background-color: #EBEBEB;
+	padding: 20px;
+}
+
+h2 {
+	text-align: center;
+	color: green;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+h5 {
+color: #55c57a;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
